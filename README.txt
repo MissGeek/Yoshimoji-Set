@@ -1,11 +1,10 @@
 #
 # Yoshimoji Set
-# By Ishimaru Chiaki
+# By Ishimaru Chiaki < http://ishimaru-chiaki.deviantart.com >
 #
 
 Current version : 1.0.0
 Contributors : Ishimaru Chiaki
-
 
 # Description and infos
 
